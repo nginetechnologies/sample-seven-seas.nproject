@@ -1,0 +1,888 @@
+{
+    "guid": "e225291a-cb01-b440-3441-2edf630a4f02",
+    "source": "/Users/collinbishop/Desktop/Seven Seas/Source/SC_Seven_Seas.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c15b0c58-707f-a719-4dbc-5a4a92a56617",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Seven Seas"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f6b9ed3-5855-f0c5-5019-45de2f5e9c2a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anchor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8f46b608-af31-cb09-2c14-01c28dfe14f1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9ac04330-5066-9667-37b5-32ef305339ee",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ac5f3c87-3efb-3412-f192-53e18cc3aac7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "13d5dc71-e0d6-8b06-e0b2-3549a527d59b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bomb"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "64494436-b3e8-2673-d814-dc7dd51fb219"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0fe5de24-d37c-c513-6ec2-eca9a264c4b0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bottle 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e5ae5ed0-5226-4940-093e-93b9a9e9e6ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "77bb73aa-ecf2-aba0-b908-3ed53ab26a79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bottle 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c46a798f-dcfc-cd29-8392-f84fb9e55773"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1120bf4f-6154-9fe6-6384-fceaefadd079",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bucket"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "33ad5ff0-8005-d27d-3745-11dfff5920fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "da3102f0-807d-7c40-03b0-ef802145c38b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bucket Fishes"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e06b0b5-37ea-3f81-ddf8-7be0deb48fd3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1fc82120-e009-684d-ca4e-8cca40874dc4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cannon"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e62bbc8a-a5b6-195e-9a75-30d2e214f788"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9d070eb5-51b8-18bd-e054-2c17a00e1b76",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cannonball"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b90e77-2e30-2849-880e-06f4edac4723"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "42003223-c8b3-2df6-443d-d1bb68269a5f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Closed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ab70364b-afda-fb85-ed46-0a8276cf68fa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4fac624a-cbc2-48e1-0374-f29c2f555a3c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Gold"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "02b46463-02d7-6566-fd55-0afc1fba1e10"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "048a3824-8d0a-71ca-7a9e-c2c207c9d9ec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coins"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4c16d365-0964-507e-b923-047f3019a68b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "34339e2f-3c7e-6fe8-cec0-9714ba224b9e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fish Mackerel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "292d178d-5c1b-93a2-447e-7344973a7b7a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a9c55f7a-04be-1b00-2335-906d57eacd08",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fish Tuna"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2c575a0c-8e73-b2cb-399f-51d4065ff1ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "87140eda-6b5c-e31f-ceb4-9feb4899ae03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gold Bag"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e5b520d1-f5eb-b81a-891a-0025599aaf8d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "041cbc42-a5ca-79c6-fd1c-4c99764c71d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skull"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "670788c0-b83a-4828-434d-d9e7262f6f6d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "115fd67a-6c8d-b8a8-f366-99cfc47a7bb0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cliff 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8429c9e4-c1ac-cfc6-91a4-45a2d032040c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "37e9066c-c9bd-8b02-a211-5a44e876d4f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cliff 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5936e75-f8a7-fdb7-88ee-e14efe6ad0c6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eb737b39-e507-e623-bd6d-3b07268eba2a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cliff 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9706e30f-cdcc-1578-653e-2a7040a07c11"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d82cc9e1-1a80-479b-ed5d-da0749049627",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cliff 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2676b293-1a79-0b79-1b12-4e52bba5d52b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0f956041-8d86-f640-1e33-1fb776bc7d8a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dock"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "98c68620-8f2d-eff4-063a-751c91e950d2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d2e728e6-0772-2eb7-4855-42b32b35a68e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dock Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1a1024c3-9696-96b0-d91b-3ae0c2297972"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c94cbd1d-e68a-2ac9-5773-8f7e5616f34b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dock Pole"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d0506e14-6dba-c6ec-e51e-f78225d78c64"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d66e2cf-7e47-84f5-60f1-b04ed7750188",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "855f1deb-f544-55fd-2704-604cf0ff566d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f7530cdf-29d5-a8e2-60d2-d64c0f6ab4f4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e825a11-00f2-3bd7-89db-ea705743b13b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "77ac0f15-5c47-f4ce-40fd-677774d67cdd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "104bd064-10eb-2820-b331-c69aca5e59d8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2ede4207-859c-294a-9987-51b3db3b82d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Large Bones"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c880228d-2d7d-3476-5402-fd0a8350d437"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f45750e9-1444-9822-b014-3e2beddc1924",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "PalmTree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5202bb1-874b-ace8-b846-09ded7eb68a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "44fda759-6d71-f86e-c9c4-a1fdf6fc5c7a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "PalmTree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6450b7b2-fdc9-4ed2-981a-2493d208428d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4e5a5592-59a7-a5fb-6c0f-c98f9e9cddb9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "PalmTree 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6edc0f99-5a01-8b05-79e4-1e3945013e06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cb5568d5-604d-75dd-079d-e49733e001a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b966384f-da7a-bfb6-8e26-f4372398796f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6267fe35-aff5-a59e-28bc-3b3742f1ac0c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c1b42703-c557-4742-3e7e-f9987e90a9f6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "930d4702-21bf-e113-3016-a02ad4fd1a65",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "48d4dc8b-4306-8774-f2e3-a124d0bf3c80"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ab586a2d-b752-d129-a5d6-1b14af97aea1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "06dc4fc2-9fbe-6278-ab08-5be799f198f2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4b98e1e8-306d-c3e4-305f-cb79ab634443",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8a4f4be-1794-993f-d199-cd74cf2d508c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2043ec49-78fb-e4a5-6994-36f009b65a33",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sawmill"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "50a016c0-0d8e-dc32-7cc9-fcbf00bd735c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "02e53221-6427-5084-2d13-0d7ab130dc88",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skulls"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "42cb6460-36e0-ed44-1852-5840717f13eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a37e6e32-d581-d566-873a-4d829c4d448d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Axe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0fdeb362-ac05-f153-24de-278be1abe8a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7696d60d-138f-5a32-bff7-bb489f771e64",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Axe Rifle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "85cc35c6-7529-b2a4-e16b-90dea77ab087"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6bd34ffe-cf41-4946-9456-40d7109c19c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cutlass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3a91a48b-3df1-0396-6a39-5f75c061ea99"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fdb350f4-78cb-f7e4-ec7b-cbd4f2aafdb6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dagger"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e2810a4a-4f5c-0b1c-7672-2a3de0cc2d74"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6ccd5869-8d4c-cb16-47b6-d15641d85bac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Double Axe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f473d42e-7763-5231-e0de-1b70a420607c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6fa21952-de0f-8efc-0f65-2f80d91fd2de",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Double Shotgun"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ac3f013f-8538-a08e-b29c-029ca68caa41"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1cf98689-7652-c80f-51cf-e6f6e183d8bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lute"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c38f99f6-0a11-9e17-276a-633c4ba64a31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cdcc620e-9ccc-243b-a945-0b76971ce3d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pistol"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cb9a447e-a9c9-3a4a-0441-b6462e3dfd19"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a01aad62-2259-a4fa-5eac-94414ce53146",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rifle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e0609692-1455-56fc-f58b-0a9d5d585b20"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4bf669e9-56de-d65f-e3dc-f8ab50721dcf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sword 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "98b40026-218c-cec5-e12a-daff901d0282"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "adb7ff9e-1cfb-07db-f913-aa71f4990b0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sword 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "423d1a9e-a0c8-622f-b580-20c81e0fc664"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f28185df-0f32-ce49-4cc3-24a73de13a15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chicken Leg"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cf056e6e-3585-6ce5-e931-42865a200cc0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "da66ce59-7b92-c48f-1dd5-28ce24445e16",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gem Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "03fe077b-903f-87d7-248d-2b6697d8b3de"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f59e94b8-79ae-977b-034b-874df2b97fd3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gem Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "876bb0bc-f877-e433-83eb-9804e91f07d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "944df24a-8a9b-bf15-34a5-e40bd85e5982",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gem Pink"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "da7c48c8-4bc0-9053-2902-84b493a97693"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "978630f3-e232-9b49-957d-ad4fdfcad1fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gold"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2c14794c-505a-c845-df9b-837a92f4cd02"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e2324ff-993c-9942-01de-a70d34da34fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Paper"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "143dd714-2e4a-14ad-ea71-80c04775c4b9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d90f40fd-e567-6e7a-983c-49910cdce0d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Red Dash"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d62b8cc7-5c85-dc42-999e-da2abefb0d86"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d14b0bd6-86fd-23cf-f685-a8e13eee0c9c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Red X"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "81e515a9-d495-7537-186b-aee2133fd664"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "55a7142b-a01c-e835-0d10-27993a644d1c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rocks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "60d7969c-eeb1-2917-11c3-d202e8bab6bd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e4cd1c5e-da03-e9a9-db51-c12015536352",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Swords"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a0b34a31-722b-e40d-bc01-3a7c58736ff9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "274b8c0b-28e1-2b7c-c7e1-b7781eb125f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheat"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f7c2caf1-eab2-4294-ae1f-4ab16be73dbd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fab0ea49-cc95-cd83-4633-5b09e6dc9701",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9257d29-15b1-8202-d7e3-dfcd6aeb797d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39dfa7d0-ba81-56eb-6543-e64a8d4bf24d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3a92c280-1e20-d391-dd80-25c2cdbce9a2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "87e0c58c-ac60-0e4d-da0c-a34dc4bffa37",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f18de4ba-0678-ce50-0ca2-5b609fc552ea"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e225291a-cb01-b440-3441-2edf630a4f02"
+    },
+    "dependencies": [
+        "8f46b608-af31-cb09-2c14-01c28dfe14f1",
+        "ac5f3c87-3efb-3412-f192-53e18cc3aac7",
+        "64494436-b3e8-2673-d814-dc7dd51fb219",
+        "e5ae5ed0-5226-4940-093e-93b9a9e9e6ff",
+        "c46a798f-dcfc-cd29-8392-f84fb9e55773",
+        "33ad5ff0-8005-d27d-3745-11dfff5920fb",
+        "9e06b0b5-37ea-3f81-ddf8-7be0deb48fd3",
+        "e62bbc8a-a5b6-195e-9a75-30d2e214f788",
+        "a9b90e77-2e30-2849-880e-06f4edac4723",
+        "ab70364b-afda-fb85-ed46-0a8276cf68fa",
+        "02b46463-02d7-6566-fd55-0afc1fba1e10",
+        "4c16d365-0964-507e-b923-047f3019a68b",
+        "292d178d-5c1b-93a2-447e-7344973a7b7a",
+        "2c575a0c-8e73-b2cb-399f-51d4065ff1ef",
+        "e5b520d1-f5eb-b81a-891a-0025599aaf8d",
+        "670788c0-b83a-4828-434d-d9e7262f6f6d",
+        "8429c9e4-c1ac-cfc6-91a4-45a2d032040c",
+        "a5936e75-f8a7-fdb7-88ee-e14efe6ad0c6",
+        "9706e30f-cdcc-1578-653e-2a7040a07c11",
+        "2676b293-1a79-0b79-1b12-4e52bba5d52b",
+        "98c68620-8f2d-eff4-063a-751c91e950d2",
+        "1a1024c3-9696-96b0-d91b-3ae0c2297972",
+        "d0506e14-6dba-c6ec-e51e-f78225d78c64",
+        "855f1deb-f544-55fd-2704-604cf0ff566d",
+        "1e825a11-00f2-3bd7-89db-ea705743b13b",
+        "104bd064-10eb-2820-b331-c69aca5e59d8",
+        "c880228d-2d7d-3476-5402-fd0a8350d437",
+        "a5202bb1-874b-ace8-b846-09ded7eb68a6",
+        "6450b7b2-fdc9-4ed2-981a-2493d208428d",
+        "6edc0f99-5a01-8b05-79e4-1e3945013e06",
+        "b966384f-da7a-bfb6-8e26-f4372398796f",
+        "c1b42703-c557-4742-3e7e-f9987e90a9f6",
+        "48d4dc8b-4306-8774-f2e3-a124d0bf3c80",
+        "06dc4fc2-9fbe-6278-ab08-5be799f198f2",
+        "a8a4f4be-1794-993f-d199-cd74cf2d508c",
+        "50a016c0-0d8e-dc32-7cc9-fcbf00bd735c",
+        "42cb6460-36e0-ed44-1852-5840717f13eb",
+        "0fdeb362-ac05-f153-24de-278be1abe8a6",
+        "85cc35c6-7529-b2a4-e16b-90dea77ab087",
+        "3a91a48b-3df1-0396-6a39-5f75c061ea99",
+        "e2810a4a-4f5c-0b1c-7672-2a3de0cc2d74",
+        "f473d42e-7763-5231-e0de-1b70a420607c",
+        "ac3f013f-8538-a08e-b29c-029ca68caa41",
+        "c38f99f6-0a11-9e17-276a-633c4ba64a31",
+        "cb9a447e-a9c9-3a4a-0441-b6462e3dfd19",
+        "e0609692-1455-56fc-f58b-0a9d5d585b20",
+        "98b40026-218c-cec5-e12a-daff901d0282",
+        "423d1a9e-a0c8-622f-b580-20c81e0fc664",
+        "cf056e6e-3585-6ce5-e931-42865a200cc0",
+        "03fe077b-903f-87d7-248d-2b6697d8b3de",
+        "876bb0bc-f877-e433-83eb-9804e91f07d3",
+        "da7c48c8-4bc0-9053-2902-84b493a97693",
+        "2c14794c-505a-c845-df9b-837a92f4cd02",
+        "143dd714-2e4a-14ad-ea71-80c04775c4b9",
+        "d62b8cc7-5c85-dc42-999e-da2abefb0d86",
+        "81e515a9-d495-7537-186b-aee2133fd664",
+        "60d7969c-eeb1-2917-11c3-d202e8bab6bd",
+        "a0b34a31-722b-e40d-bc01-3a7c58736ff9",
+        "f7c2caf1-eab2-4294-ae1f-4ab16be73dbd",
+        "b9257d29-15b1-8202-d7e3-dfcd6aeb797d",
+        "3a92c280-1e20-d391-dd80-25c2cdbce9a2",
+        "f18de4ba-0678-ce50-0ca2-5b609fc552ea"
+    ]
+}
