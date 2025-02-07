@@ -2,7 +2,11 @@
     "263ca705-a686-40fe-8a60-9e8e539395d9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Seven Seas.scene.nasset"
+        "path": "Assets/Seven Seas.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.000000000000000000000,\"nearPlane\":0.1000000014901161193847,\"farPlane\":2048.0000000000000000000}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.4301,-15.9495,24.7722],\"rotation\":[-42.2978,-0.0,-53.6873]}"
+        }
     },
     "b10f5768-ae8c-093c-a183-63cd25e136b0": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
@@ -19,11 +23,6 @@
     },
     "guid": "b10f5768-ae8c-093c-a183-63cd25e136b0",
     "imported_assets": [
-        "c534bab4-a328-55a9-5573-36400a1487fa",
-        "2e5d6458-f003-4d2a-9a46-0f4926ec9e16",
-        "9896166c-538e-4d85-9963-da97cc39b584",
-        "3e905ad2-d1fa-4259-a456-42da0d17f5dd",
-        "732bb934-2b07-4fbd-83ee-7f1a0163f9c3",
         "003e62ff-094a-4488-882e-ebe62c5f6ab1",
         "00b06777-a3c0-dc8d-460c-a26e3faabdbd",
         "00c5dcd6-8069-4a81-8973-37e8f2b95396",
@@ -104,6 +103,7 @@
         "2c575a0c-8e73-b2cb-399f-51d4065ff1ef",
         "2c9713de-94fb-dded-09de-95e0d1f28061",
         "2d8c7634-149c-ce99-ceea-0b4f71bf03a5",
+        "2e5d6458-f003-4d2a-9a46-0f4926ec9e16",
         "3030aebf-9385-625a-a2d4-8e3407bfc0de",
         "30fb23ab-37b5-12a2-9a6b-a7c23214faaf",
         "325b9540-ba22-bc3f-a2aa-579913a403ef",
@@ -125,6 +125,7 @@
         "3dacd9b3-38ed-2831-1875-a93819a8e9d2",
         "3e014c74-1505-6dda-6b2c-5297f829470b",
         "3e600310-91ea-9e10-cc50-046270d20bea",
+        "3e905ad2-d1fa-4259-a456-42da0d17f5dd",
         "3efc4374-053c-b90c-32a2-fe9e07b6dd9a",
         "3f5ba5f1-58a2-4efa-9c26-c22514f9ca98",
         "3f9c5fe7-51f3-f35c-73b0-7a0b2206e318",
@@ -207,6 +208,7 @@
         "71d30070-d622-657d-2cdb-4a4da13a4078",
         "7251aa12-a20d-0ac2-a59a-148df4c806d0",
         "72bda891-3002-559e-bece-e2ab8f885d27",
+        "732bb934-2b07-4fbd-83ee-7f1a0163f9c3",
         "74b93f23-fbc2-4ea7-984d-96f731175911",
         "75050a88-f690-5029-c1e8-199b116e5b96",
         "752bf940-ec30-aef1-5e9f-0924eb05db70",
@@ -264,6 +266,7 @@
         "97387b2b-acda-4a83-b71b-50ae094fb21a",
         "974e0735-e9ae-cd3d-2f3a-1dfab990d162",
         "97c64dd1-c230-4b15-a5eb-bc3bc2d6751e",
+        "9896166c-538e-4d85-9963-da97cc39b584",
         "98b40026-218c-cec5-e12a-daff901d0282",
         "98c68620-8f2d-eff4-063a-751c91e950d2",
         "9926ebb4-a435-4f45-5bcc-e4df0e9f5a42",
@@ -339,6 +342,7 @@
         "c4336256-b031-4fed-9323-210ac72ca4a5",
         "c46a798f-dcfc-cd29-8392-f84fb9e55773",
         "c4db27c3-5c80-df6d-f84c-9c375cb852df",
+        "c534bab4-a328-55a9-5573-36400a1487fa",
         "c63210da-da00-24f2-9c0b-c7f338662448",
         "c6854cce-d342-ce8c-a7d4-150d1541a9fd",
         "c6984245-6adb-5261-03c9-18085243f8e4",
