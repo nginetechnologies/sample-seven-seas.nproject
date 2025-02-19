@@ -1,0 +1,20 @@
+{
+    "source": "A_Skeleton_Run.fbx",
+    "skeleton": "11a174f8-f314-16a2-444e-54e5016eefc3",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "11a174f8-f314-16a2-444e-54e5016eefc3"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f"
+        }
+    ],
+    "guid": "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "11a174f8-f314-16a2-444e-54e5016eefc3"
+    ]
+}

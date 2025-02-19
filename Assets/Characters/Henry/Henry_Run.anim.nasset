@@ -1,0 +1,20 @@
+{
+    "source": "A_Henry_Run.fbx",
+    "skeleton": "68ff23b1-8497-9c32-db1b-d559d772ab03",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "68ff23b1-8497-9c32-db1b-d559d772ab03"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "1a4c71d1-c841-46d8-9f7f-99a54686d5cc"
+        }
+    ],
+    "guid": "1a4c71d1-c841-46d8-9f7f-99a54686d5cc",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "68ff23b1-8497-9c32-db1b-d559d772ab03"
+    ]
+}

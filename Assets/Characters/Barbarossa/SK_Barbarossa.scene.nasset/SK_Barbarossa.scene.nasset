@@ -1,0 +1,259 @@
+{
+    "guid": "c6984245-6adb-5261-03c9-18085243f8e4",
+    "source": "../SK_Barbarossa.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e7cb1361-0aca-19b2-1881-a16a5721134b",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Barbarossa"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d93afdd7-5e3f-445d-9416-7ae749c9044b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Root"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "3ef4afd7-814f-841c-71d2-2b6851d7b13d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Body"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                            "instanceGuid": "86344870-26c8-2260-5a97-297006aef869",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Hips"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "30833a6b-02fd-d14f-d34e-c42240186369",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Abdomen"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                            "instanceGuid": "5c7885f2-f153-a016-d320-2dcf9e765ea0",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Torso"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                                    "instanceGuid": "652ceda5-c997-0e14-e06b-024dcd61af1d",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "Shoulder R"
+                                                        }
+                                                    ],
+                                                    "children": [
+                                                        {
+                                                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                                            "instanceGuid": "0d0a1cd2-32f3-3179-3ed7-a55d83aea267",
+                                                            "data_components": [
+                                                                {
+                                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                    "name": "UpperArm R"
+                                                                }
+                                                            ],
+                                                            "children": [
+                                                                {
+                                                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                                                    "instanceGuid": "0395855e-6d43-27b5-4389-b623b6a822e1",
+                                                                    "data_components": [
+                                                                        {
+                                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                            "name": "LowerArm R"
+                                                                        }
+                                                                    ],
+                                                                    "children": [
+                                                                        {
+                                                                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                                                            "instanceGuid": "226e4202-1474-6555-ca39-3e7cd2d62ea7",
+                                                                            "data_components": [
+                                                                                {
+                                                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                                    "name": "Middle1 R"
+                                                                                }
+                                                                            ],
+                                                                            "children": [
+                                                                                {
+                                                                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                                                                                    "instanceGuid": "f6004c3d-a7cb-dd90-e4c8-a456de791bb0",
+                                                                                    "data_components": [
+                                                                                        {
+                                                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                                                            "name": "Weapon Cutlass"
+                                                                                        }
+                                                                                    ],
+                                                                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                                                                        "scene": "66bc445f-8f80-493a-41ae-11fa1dedaec1"
+                                                                                    }
+                                                                                }
+                                                                            ],
+                                                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                                                "position": [
+                                                                                    0.0159,
+                                                                                    -0.0123,
+                                                                                    0.2574
+                                                                                ],
+                                                                                "rotation": [
+                                                                                    13.4578,
+                                                                                    6.44,
+                                                                                    0.7443
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ],
+                                                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                                        "position": [
+                                                                            0.0118,
+                                                                            0.0079,
+                                                                            0.2056
+                                                                        ],
+                                                                        "rotation": [
+                                                                            -2.3863,
+                                                                            -2.7806,
+                                                                            -3.6615
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ],
+                                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                                "position": [
+                                                                    -0.1133,
+                                                                    0.0963,
+                                                                    0.0838
+                                                                ],
+                                                                "rotation": [
+                                                                    -41.6542,
+                                                                    -11.9715,
+                                                                    93.379
+                                                                ]
+                                                            }
+                                                        }
+                                                    ],
+                                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                        "position": [
+                                                            -0.0913,
+                                                            -0.0565,
+                                                            0.0411
+                                                        ],
+                                                        "rotation": [
+                                                            -20.6255,
+                                                            -46.1727,
+                                                            4.4991
+                                                        ]
+                                                    }
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "position": [
+                                                    0.0,
+                                                    0.1232,
+                                                    -0.0
+                                                ],
+                                                "rotation": [
+                                                    3.2346,
+                                                    0.0,
+                                                    -0.0
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "position": [
+                                            0.0,
+                                            0.1655,
+                                            -0.0
+                                        ],
+                                        "rotation": [
+                                            7.3794,
+                                            -0.0,
+                                            0.0
+                                        ]
+                                    }
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -0.0007,
+                                    -0.0066,
+                                    -0.0931
+                                ],
+                                "rotation": [
+                                    -5.8201,
+                                    -0.0,
+                                    -0.0
+                                ]
+                            }
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0004,
+                            -0.5091,
+                            0.0357
+                        ],
+                        "rotation": [
+                            -179.9999,
+                            -0.0,
+                            -0.0
+                        ]
+                    }
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -89.9999,
+                    -0.0,
+                    -0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cb5dfc0e-6714-69a5-d4c2-c8099ec3874b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Barbarossa"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dc30e7d4-07ce-c5ed-b976-55ac747a7373"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c6984245-6adb-5261-03c9-18085243f8e4"
+    },
+    "dependencies": [
+        "66bc445f-8f80-493a-41ae-11fa1dedaec1",
+        "dc30e7d4-07ce-c5ed-b976-55ac747a7373"
+    ]
+}

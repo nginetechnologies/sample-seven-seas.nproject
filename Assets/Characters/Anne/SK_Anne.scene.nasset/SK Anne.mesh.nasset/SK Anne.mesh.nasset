@@ -1,0 +1,95 @@
+{
+    "guid": "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "09b57264-a593-b796-3a9e-a8b28e6604fd",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "98caf2ae-9373-79df-c95e-117228fdce34",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Anne Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "43faa2ba-8506-0bf8-650f-a00a02360d74",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "ac76f590-c349-41be-9e33-0411843c7fd1",
+                                "55526a5b-923e-4ad4-abab-a0c48ea2f084",
+                                "06b1c410-90c6-4516-97ab-ba6436baea43"
+                            ],
+                            "jump_animations": [
+                                "a1df851c-6f49-43f3-a8d1-574a85f6dc14",
+                                "fd3cfb92-6250-48cc-a1ba-8bc66ea66a86",
+                                "003e62ff-094a-4488-882e-ebe62c5f6ab1"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eae254a3-b5d0-7263-6ed0-0ac174479ef7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Anne Anne"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d3be0d57-06ef-2e0f-ad9c-4572d7d1afaf",
+                                "material_instance": "29fa0129-43b8-a527-5547-b4c78b599983"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "458291da-e4ac-5d0f-9d65-3a3e740511c0"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8"
+    },
+    "dependencies": [
+        "29fa0129-43b8-a527-5547-b4c78b599983",
+        "d3be0d57-06ef-2e0f-ad9c-4572d7d1afaf",
+        "458291da-e4ac-5d0f-9d65-3a3e740511c0",
+        "1f4b1c8d-dfd8-efe6-4930-ee5f68594183",
+        "ac76f590-c349-41be-9e33-0411843c7fd1",
+        "55526a5b-923e-4ad4-abab-a0c48ea2f084",
+        "06b1c410-90c6-4516-97ab-ba6436baea43",
+        "a1df851c-6f49-43f3-a8d1-574a85f6dc14",
+        "fd3cfb92-6250-48cc-a1ba-8bc66ea66a86",
+        "003e62ff-094a-4488-882e-ebe62c5f6ab1"
+    ],
+    "thumbnailGuid": "e01c1288-2760-0c78-e0cc-24690ae19c20"
+}

@@ -1,0 +1,95 @@
+{
+    "guid": "a83c35b3-e047-b583-e314-5206a6564efb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b0c68e6e-ffa3-66af-18a9-3eb475186f0f",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6297c651-63c8-a4a3-00e1-832384df89a7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Mako Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "8a79fc6a-7a62-7499-b494-dd38249ec779",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "3f5ba5f1-58a2-4efa-9c26-c22514f9ca98",
+                                "b356ea36-cb08-4135-af05-528dc84c866e",
+                                "bc286ed3-9e38-4a48-9718-0cbde1b378f0"
+                            ],
+                            "jump_animations": [
+                                "3fa71324-9849-41c9-b362-f19e15ae3cb9",
+                                "35168fb1-fe4e-4fbb-926c-d67e61ca7413",
+                                "74b93f23-fbc2-4ea7-984d-96f731175911"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "77e9d43f-1d3e-cefd-bd98-6c5f1162d759",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mako Mako"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b3f2d203-25df-59fa-bcaf-e4830473a234",
+                                "material_instance": "ed3ad9e0-8a92-4573-67b1-8acbea22e7a4"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e2f92be9-bd07-e23a-de4c-b05bfe5bb6e2"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a83c35b3-e047-b583-e314-5206a6564efb"
+    },
+    "dependencies": [
+        "ed3ad9e0-8a92-4573-67b1-8acbea22e7a4",
+        "b3f2d203-25df-59fa-bcaf-e4830473a234",
+        "e2f92be9-bd07-e23a-de4c-b05bfe5bb6e2",
+        "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a",
+        "3f5ba5f1-58a2-4efa-9c26-c22514f9ca98",
+        "b356ea36-cb08-4135-af05-528dc84c866e",
+        "bc286ed3-9e38-4a48-9718-0cbde1b378f0",
+        "3fa71324-9849-41c9-b362-f19e15ae3cb9",
+        "35168fb1-fe4e-4fbb-926c-d67e61ca7413",
+        "74b93f23-fbc2-4ea7-984d-96f731175911"
+    ],
+    "thumbnailGuid": "05175f50-99ca-dc19-32df-24e0a85a250f"
+}

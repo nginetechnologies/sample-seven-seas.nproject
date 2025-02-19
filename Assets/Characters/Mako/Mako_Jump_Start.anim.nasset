@@ -1,0 +1,20 @@
+{
+    "source": "A_Mako_Jump_Start.fbx",
+    "skeleton": "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "3fa71324-9849-41c9-b362-f19e15ae3cb9"
+        }
+    ],
+    "guid": "3fa71324-9849-41c9-b362-f19e15ae3cb9",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "f8b6357b-4ca0-1ed1-87dc-e9acbf87a51a"
+    ]
+}

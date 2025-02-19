@@ -1,0 +1,20 @@
+{
+    "source": "A_Sharky_Jump_Start.fbx",
+    "skeleton": "71d30070-d622-657d-2cdb-4a4da13a4078",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "71d30070-d622-657d-2cdb-4a4da13a4078"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "e3cd124c-e25d-4ed1-bdb9-b3282154688e"
+        }
+    ],
+    "guid": "e3cd124c-e25d-4ed1-bdb9-b3282154688e",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "71d30070-d622-657d-2cdb-4a4da13a4078"
+    ]
+}

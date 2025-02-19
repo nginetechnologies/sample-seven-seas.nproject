@@ -1,0 +1,95 @@
+{
+    "guid": "4467c4f3-f0df-1363-f354-e45e2c663437",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e6266f20-fe4e-856d-b85d-4c3d57dc9c8c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a783c7e6-ab0e-3d8e-02ab-019ef5dba74f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Skeleton Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "4b62db8f-840d-a274-552d-a8146cb0975d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "d7ab1939-6333-48b3-b5a7-6b906962b581",
+                                "4e989a93-5214-4248-9e99-5bb5413dc367",
+                                "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f"
+                            ],
+                            "jump_animations": [
+                                "e33aab7d-d9b4-472d-8975-b2883c441db2",
+                                "00c5dcd6-8069-4a81-8973-37e8f2b95396",
+                                "61ecc37e-40ec-4d06-870c-6328e1c63b1b"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6d63bf76-4958-3f7e-1240-1536777f6836",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Skeleton Skeleton"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "76f2cfc2-b992-923a-30d9-ae7859f408c5",
+                                "material_instance": "e4fce026-29dc-c41f-f2b5-4b5994f66778"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4ca52064-0d4c-3221-ba9b-315e84d9e11e"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "11a174f8-f314-16a2-444e-54e5016eefc3"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4467c4f3-f0df-1363-f354-e45e2c663437"
+    },
+    "dependencies": [
+        "e4fce026-29dc-c41f-f2b5-4b5994f66778",
+        "76f2cfc2-b992-923a-30d9-ae7859f408c5",
+        "4ca52064-0d4c-3221-ba9b-315e84d9e11e",
+        "11a174f8-f314-16a2-444e-54e5016eefc3",
+        "d7ab1939-6333-48b3-b5a7-6b906962b581",
+        "4e989a93-5214-4248-9e99-5bb5413dc367",
+        "3a27eb9a-f2cb-43e2-a1b1-ac7bf8314b9f",
+        "e33aab7d-d9b4-472d-8975-b2883c441db2",
+        "00c5dcd6-8069-4a81-8973-37e8f2b95396",
+        "61ecc37e-40ec-4d06-870c-6328e1c63b1b"
+    ],
+    "thumbnailGuid": "d653e301-89d4-6074-5ec6-80fa37493980"
+}

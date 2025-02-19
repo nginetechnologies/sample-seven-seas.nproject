@@ -1,0 +1,90 @@
+{
+    "guid": "6f885455-7872-d421-e1a1-1f43a8d2aaec",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "98dbe7fb-33e0-68a5-e6ab-ce282c23699e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8610d69a-be57-5f01-11e8-20edb5682d0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Tentacle Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "a590188d-8864-5f91-55ee-523e5a076db3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "b3d234cd-9687-4407-b3b8-335e6b2a83d2",
+                                "b3d234cd-9687-4407-b3b8-335e6b2a83d2",
+                                "b3d234cd-9687-4407-b3b8-335e6b2a83d2"
+                            ],
+                            "jump_animations": [
+                                "b3d234cd-9687-4407-b3b8-335e6b2a83d2",
+                                "b3d234cd-9687-4407-b3b8-335e6b2a83d2",
+                                "b3d234cd-9687-4407-b3b8-335e6b2a83d2"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8cc1c0b8-4c84-7b98-087a-37e5f599faef",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Tentacle Seven Seas"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "21cbba69-650c-7b7a-f284-b8be8f9d3426",
+                                "material_instance": "7876f91e-e8c6-bd86-5c82-3e221511c0a5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "fbb0ddb6-6c7c-8319-444f-738c084050b6"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "90323109-7abd-431d-a732-9df17a31b92f"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6f885455-7872-d421-e1a1-1f43a8d2aaec"
+    },
+    "dependencies": [
+        "7876f91e-e8c6-bd86-5c82-3e221511c0a5",
+        "21cbba69-650c-7b7a-f284-b8be8f9d3426",
+        "fbb0ddb6-6c7c-8319-444f-738c084050b6",
+        "90323109-7abd-431d-a732-9df17a31b92f",
+        "b3d234cd-9687-4407-b3b8-335e6b2a83d2"
+    ],
+    "thumbnailGuid": "3b7217ed-3783-2436-5af7-91e76e1ea343"
+}

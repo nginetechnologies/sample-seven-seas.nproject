@@ -1,0 +1,34 @@
+{
+    "guid": "4da6a185-34c0-d70c-7718-f3f000811de4",
+    "source": "../SK_Anne.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "74782965-e4ca-89b1-959d-fca3a17224b2",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Anne"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "781c7abf-265a-d565-a6ef-5f6be265f299",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Anne"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4da6a185-34c0-d70c-7718-f3f000811de4"
+    },
+    "dependencies": [
+        "8ecbd3df-4a64-4fa7-2b83-50fc36690ed8"
+    ]
+}

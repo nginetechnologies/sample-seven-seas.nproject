@@ -1,0 +1,95 @@
+{
+    "guid": "d32eeda9-0de8-0bee-a690-b824ec29f31a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "df76969c-4e47-9d3f-e4f4-b9fef104ba16",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "e2a6b434-0ec1-82fa-eb0d-953b257e994c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Sharky Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "acb59523-75fc-2655-86a2-a9b5617d5f65",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "c0625703-f47a-4b62-b313-0c56ffdaf7fa",
+                                "ae532e47-1b98-4b7e-832f-6bb51004fae0",
+                                "d8cdda57-ba24-494a-986b-26f7a6dc7a28"
+                            ],
+                            "jump_animations": [
+                                "e3cd124c-e25d-4ed1-bdb9-b3282154688e",
+                                "cccba5de-23f7-4ce5-9f33-888a1e1323d3",
+                                "073de270-060b-4159-b9db-c1a560db7e91"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "87ff605d-e0b8-9f40-19b9-dcd11b1e6b14",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Sharky Sharky"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a6d28efc-157c-fbff-857c-eb421a2f0778",
+                                "material_instance": "0c4a7db2-cd3a-286d-ea4d-6627c370f864"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "60f842c4-685c-16a4-da8d-25573a37ca35"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "71d30070-d622-657d-2cdb-4a4da13a4078"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d32eeda9-0de8-0bee-a690-b824ec29f31a"
+    },
+    "dependencies": [
+        "0c4a7db2-cd3a-286d-ea4d-6627c370f864",
+        "a6d28efc-157c-fbff-857c-eb421a2f0778",
+        "60f842c4-685c-16a4-da8d-25573a37ca35",
+        "71d30070-d622-657d-2cdb-4a4da13a4078",
+        "c0625703-f47a-4b62-b313-0c56ffdaf7fa",
+        "ae532e47-1b98-4b7e-832f-6bb51004fae0",
+        "d8cdda57-ba24-494a-986b-26f7a6dc7a28",
+        "e3cd124c-e25d-4ed1-bdb9-b3282154688e",
+        "cccba5de-23f7-4ce5-9f33-888a1e1323d3",
+        "073de270-060b-4159-b9db-c1a560db7e91"
+    ],
+    "thumbnailGuid": "6a2b575c-cfd6-eeb9-d966-8f514d26d43d"
+}

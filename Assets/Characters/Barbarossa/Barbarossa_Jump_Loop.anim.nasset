@@ -1,0 +1,20 @@
+{
+    "source": "A_Barbarossa_Jump_Loop.fbx",
+    "skeleton": "a4731a98-c04e-4034-1f39-204002b89be5",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "a4731a98-c04e-4034-1f39-204002b89be5"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "149bb4de-aa79-48e2-8c28-485117f449a5"
+        }
+    ],
+    "guid": "149bb4de-aa79-48e2-8c28-485117f449a5",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "a4731a98-c04e-4034-1f39-204002b89be5"
+    ]
+}

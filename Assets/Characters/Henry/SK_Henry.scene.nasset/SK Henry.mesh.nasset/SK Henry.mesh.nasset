@@ -1,0 +1,95 @@
+{
+    "guid": "c94dffd2-440b-694e-753f-fa78dbb8d27e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6c80fe33-0d2a-8d3e-f7d3-08581054405c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9f84aa8b-2d5a-2105-5430-a9d9b50720ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Henry Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "2e0cac7e-b5a9-a24d-2f7f-87068ea0e041",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "a2468935-d360-4990-ae37-c1e003dcaee8",
+                                "c0711be9-afa6-46bf-a455-9bb2e35093dc",
+                                "1a4c71d1-c841-46d8-9f7f-99a54686d5cc"
+                            ],
+                            "jump_animations": [
+                                "540216b6-dc4f-4aa2-8982-2e3d52ecb491",
+                                "56c4e43e-e946-4acb-a85d-8e41c89c79ac",
+                                "dbf35b85-0868-49b0-aa11-eb11772fbc9a"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ba69dfc5-1975-656f-6852-746b85704c88",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Henry Henry"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a7d69313-d91f-a085-dd38-5699e5fae18f",
+                                "material_instance": "fa552026-5ff2-5e41-ea25-2168eb8b135c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8d33d7a2-0b14-159f-3f83-f2ffe29313cf"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "68ff23b1-8497-9c32-db1b-d559d772ab03"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c94dffd2-440b-694e-753f-fa78dbb8d27e"
+    },
+    "dependencies": [
+        "fa552026-5ff2-5e41-ea25-2168eb8b135c",
+        "a7d69313-d91f-a085-dd38-5699e5fae18f",
+        "8d33d7a2-0b14-159f-3f83-f2ffe29313cf",
+        "68ff23b1-8497-9c32-db1b-d559d772ab03",
+        "a2468935-d360-4990-ae37-c1e003dcaee8",
+        "c0711be9-afa6-46bf-a455-9bb2e35093dc",
+        "1a4c71d1-c841-46d8-9f7f-99a54686d5cc",
+        "540216b6-dc4f-4aa2-8982-2e3d52ecb491",
+        "56c4e43e-e946-4acb-a85d-8e41c89c79ac",
+        "dbf35b85-0868-49b0-aa11-eb11772fbc9a"
+    ],
+    "thumbnailGuid": "8a687636-1654-869a-a7f6-04e7a07f79c5"
+}
